@@ -18,6 +18,7 @@ A 433MHz 5 director, 1 reflector, simple dipole Yagi-Uda antenna with isolated m
 <br>
 <br>
 <br>
+<br>
 
 ---
 
@@ -27,4 +28,4 @@ Method used: [DK7ZB match](https://www.qsl.net/dk7zb/dk7zb-match.htm)
 
 <br>
 
-<img align="left" width="270" src="https://www.qsl.net/dk7zb/DK7ZB-Match/DK7ZB-Match-engl.gif">
+<img align="left" width="320" src="https://www.qsl.net/dk7zb/DK7ZB-Match/DK7ZB-Match-engl.gif">
