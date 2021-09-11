@@ -28,5 +28,5 @@ Method used: [DK7ZB match](https://www.qsl.net/dk7zb/dk7zb-match.htm)
 
 <br>
 
-<img align="left" width="320" src="https://www.qsl.net/dk7zb/DK7ZB-Match/DK7ZB-Match-engl.gif">
-<img align="right" width="320" src="https://github.com/MonkHelios/Home-made-433MHz-Yagi-Uda/blob/main/Images/IMG_20210911_222936.jpg">
+<img align="left" width="370" src="https://www.qsl.net/dk7zb/DK7ZB-Match/DK7ZB-Match-engl.gif">
+<img align="right" width="370" src="https://github.com/MonkHelios/Home-made-433MHz-Yagi-Uda/blob/main/Images/IMG_20210911_222936.jpg">
